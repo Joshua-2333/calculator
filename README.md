@@ -4,3 +4,6 @@ Can clear the results
 Can use decimals
 Use multiple operations such as 5+2-1
 has a display to show you what has been input as well the outcome
+
+## DEMO
+https://joshua-2333.github.io/calculator/
